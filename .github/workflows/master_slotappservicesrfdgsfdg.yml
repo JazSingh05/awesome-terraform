@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'slotappservicesrfdgsfdg'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_14e9351450294cea96f572af78457a13 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_698652a5bbcb475abf33faf87ac13bb4 }}
         package: .
